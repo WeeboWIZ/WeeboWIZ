@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rollin @WeeboWiz
+- 👋 Hi, I’m @WeeboWiz
 - 👀 interested in game design & dev AI tool
 - 🌱 currently learning python / javascript / solidity
 - 📫 rollingwiz@proton.me
