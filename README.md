@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeeboWiz
 - 👀 interested in game design & dev AI tool
-- 🌱 currently learning python / javascript / solidity
+- 🌱 Python / JavaScript / TypeScript / Solidity
 - 📫 rollingwiz@proton.me
 
 
