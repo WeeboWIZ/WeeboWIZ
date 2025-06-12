@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @WeeboWiz
-- 👀 interested in game design & dev AI tool
+- 👋 Yo, I’m @WeeboWiz
+- 👀 interested in Game Design & AI tool Dev
 - 🌱 Python / JavaScript / TypeScript / Solidity
 - 📫 rollingwiz@proton.me
 
